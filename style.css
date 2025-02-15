@@ -1,0 +1,19 @@
+html{
+    background-color: rgb(151, 60, 60);
+}
+img{
+    width:100%;
+    border: 5px solid antiquewhite;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+div{
+    width:50%;
+    margin-left: 25%;
+    margin-top: 80px;
+    text-align: center;
+    color:aliceblue;
+}
